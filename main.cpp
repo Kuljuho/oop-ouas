@@ -36,7 +36,7 @@ int main() {
 
     int arvaustenMaara = game(maxnum);
 
-    cout << "Arvausten määrä: " << arvaustenMaara << endl;
+    cout << "Arvausten maara: " << arvaustenMaara << endl;
 
     return 0;
 }
